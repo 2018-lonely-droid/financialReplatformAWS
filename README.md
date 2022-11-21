@@ -19,6 +19,6 @@ mutual TLS where possible.
 
 ## Solution 
 
-![alt text](https://github.com/2018-lonely-droid/financialReplatformAWS/blob/main/Diagram.jpg?raw=true)
+![alt text](https://github.com/2018-lonely-droid/financialReplatformAWS/blob/main/Diagram.png?raw=true)
 
 ![alt text](https://github.com/2018-lonely-droid/financialReplatformAWS/blob/main/ERD.png?raw=true)
